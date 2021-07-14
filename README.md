@@ -1,6 +1,6 @@
 # Problema 4
 
-desarrollado con reactJs
+desarrollado con reactJs utilizando EXPO, es posible correrlo con emulador android, o con telefono descargando la app Expo
 inicialmente se debe clonar el repositorio
 
 ### `https://github.com/wheserg/react-app-native`
